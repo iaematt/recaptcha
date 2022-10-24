@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "iaematt\\": "source/"
+        }
+    },
+    "require": {
+        "php": "^7.3",
+        "ext-pdo": "^7.3"
+    }
+}
